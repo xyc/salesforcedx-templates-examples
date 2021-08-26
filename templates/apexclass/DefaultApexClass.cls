@@ -3,6 +3,6 @@ public with sharing class <%= apiName %> {
     }
 
     public static void processString(String s) {
-        s = 'Custom template example';
+        s = 'Custom template example!!';
     }
 }
